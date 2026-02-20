@@ -1,7 +1,7 @@
 
-# 📊 Superstore Sales Analysis (Power BI)
+# Superstore Sales Analysis (Power BI)
 
-## 🔍 Overview
+## Overview
 
 This project is an interactive **Sales & Profit Analysis Dashboard** built using **Power BI** on the Superstore dataset.
 The dashboard provides insights into regional performance, customer segments, and product profitability.
@@ -66,9 +66,3 @@ The dashboard provides insights into regional performance, customer segments, an
 Data Science | Business Intelligence Enthusiast
 
 ---
-
-If you want, I can now:
-
-* Improve this dashboard wording based on what recruiters like
-* Help you rewrite all your project READMEs in the same professional style
-* Suggest improvements to make this dashboard stronger for placements 🚀
